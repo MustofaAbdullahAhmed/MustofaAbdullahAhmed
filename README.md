@@ -7,11 +7,11 @@
 Hi there! I'm a website developer with 3+ years of experience in building responsive and user-friendly dynamic websites. I specialize in WordPress, Shopify, and Wix, and I have a keen eye for design and usability.
 
 Expertise ====== 
-➤ Wordpress web Developer 
+➤ WordPress web Developer 
 ➤ Shopify Expert 
 ➤ Wix Expert 
 ➤ Elementor pro expert 
-➤ woocommerce expert  
+➤ Woo-commerce expert  
 ➤ HTML, CSS, JS, Liquid, etc 
 ➤ Landing pages expert  
 ➤ WordPress Web Speed Optimization Expert 
@@ -25,14 +25,14 @@ My Github profile serves as a showcase of my skills and expertise, featuring a p
 
 Feel free to take a look at my repositories and don't hesitate to reach out if you have any questions or are interested in working together on a project!
 
-100% client satisfaction is my first priority. So, let’s get your project done with 100% SATISFACTION.
+100% client satisfaction is my priority. So, let’s get your project done with 100% SATISFACTION.
 
 Best regards 
 [] Mustofa (Abdullah) Ahmed []
 
 Skills: WordPress / Shopify / Wix / Website Development / Front-End Development / JS / HTML / CSS
 
-- 🔭 I’m currently working on Upwork, Fiverr and People Per Hour. 
+- 🔭 I’m currently working on Upwork, Fiverr, and People Per Hour. 
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
